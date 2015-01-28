@@ -33,7 +33,3 @@ build/
 *.a
 *.pyc
 
-# Intellij files
-*.iml
-.idea/
-atlassian-ide-plugin.xml

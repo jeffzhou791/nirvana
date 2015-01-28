@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-lang3-3.1" level="project" />
+    <orderEntry type="library" name="guava-16.0.1" level="project" />
+    <orderEntry type="library" name="boon-0.21" level="project" />
+    <orderEntry type="library" name="metering-rollup-api-0.0.1" level="project" />
+    <orderEntry type="library" name="george-util-1.0-ftr-data-management-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="libthrift-0.9.1.vz1" level="project" />
+    <orderEntry type="library" name="core-api-0.0.9" level="project" />
+    <orderEntry type="library" name="abstract-service-0.0.4" level="project" />
+    <orderEntry type="library" name="abstract-service-api-0.0.4" level="project" />
+    <orderEntry type="library" name="metering-api-0.0.8" level="project" />
+    <orderEntry type="library" name="metering-rollup-service-impl-0.0.1-ftr-data-management-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="metering-service-impl-0.0.1-ftr-data-management-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="cassandra-manager-service-impl-0.0.1-ftr-data-management-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="commons-configuration-1.10" level="project" />
+    <orderEntry type="library" name="commons-lang-2.6" level="project" />
+    <orderEntry type="library" name="org.slf4j:slf4j-api:1.7.2" level="project" />
+  </component>
+</module>
