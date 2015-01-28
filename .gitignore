@@ -1,0 +1,39 @@
+.DS_Store
+
+# java, maven related files and directories #
+############
+target
+.settings/
+.*project
+.extract
+.classpath
+.springBeans
+.metadata/
+tmp/
+bin/
+
+# gradle related files and directories #
+#############
+.gradle
+build/
+.nb-gradle*
+
+# Python compiled files
+##########################
+*.pyc
+
+
+# backup files
+############
+*~
+*.swp
+*.bak
+# catch all for libraries and .o's.
+*.o
+*.a
+*.pyc
+
+# Intellij files
+*.iml
+.idea/
+atlassian-ide-plugin.xml
